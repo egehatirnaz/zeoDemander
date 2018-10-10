@@ -1,5 +1,3 @@
-# Zeo Demander Kullanıcı Rehberi
-
 Merhaba, ben Ege. Sizlere [Zeo Demander](https://github.com/egehatirnaz/zeoDemander/edit/master/README.md) ile ilgili bilmeniz gereken şeyleri tanıtacağım.
 
 Sitenin user tarafı oldukça basit işliyor, fazla uzatmayacağım.
@@ -40,6 +38,8 @@ Sisteme kaydedildiğinizde size geçici bir şifre verilecektir. Geçici şifren
 
 ## Destek ve İletişim
 Zeo Demander ile ilgili bir problemle karşılaşırsanız [ege@icerik.com](mailto:ege@icerik.com) adresini kullanarak benimle iletişime geçebilirsiniz.
+
+
 
 **_İyi çalışmalar,_**
 
