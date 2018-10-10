@@ -40,5 +40,5 @@ Sisteme kaydedildiğinizde size geçici bir şifre verilecektir. Geçici şifren
 Zeo Demander ile ilgili bir problemle karşılaşırsanız [ege@icerik.com](mailto:ege@icerik.com) adresini kullanarak benimle iletişime geçebilirsiniz.
 
 
-**_İyi çalışmalar,_**
+**_İyi çalışmalar,_**  
 **_Ege Hatırnaz_**
