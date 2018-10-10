@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Zeo Demander Kullanıcı Rehberi
 
-You can use the [editor on GitHub](https://github.com/egehatirnaz/zeoDemander/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Merhaba, ben Ege. Sizlere [Zeo Demander](https://github.com/egehatirnaz/zeoDemander/edit/master/README.md) ile ilgili bilmeniz gereken şeyleri tanıtacağım.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sitenin user tarafı oldukça basit işliyor, fazla uzatmayacağım.
 
-### Markdown
+## Hesabım
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kullanıcı bilgilerinizi girdiğinizde ilk göreceğiniz kısım burası.
+'İşlem Bekleyen Siparişler' ve 'Tamamlanmış Siparişler' olarak ikiye bölünüyor.
 
-```markdown
-Syntax highlighted code block
+'İşlem Bekleyen Siparişler' kısmında bize vermiş olduğunuz siparişleriniz
 
-# Header 1
-## Header 2
-### Header 3
+## Sipariş Ver
 
-- Bulleted
-- List
+Asıl mevzu burada dönüyor.
 
-1. Numbered
-2. List
+- İlk adım siparişinizin ulaşacağı birimi seçmek. Bir kullanıcı olarak kayıtlı olduğunuz birimleri seçebiliyorsunuz.
+Bu durumda bir Ankara ofisi çalışanı olarak Ankarayı seçiyorum.
 
-**Bold** and _Italic_ and `Code` text
+- İkinci adımda siparişin türünü seçmek var. Bu seçenekler yönetici tarafından belirlenen listeden oluşuyor. Bu örnekte siparişimizin türü mobilya.
 
-[Link](url) and ![Image](src)
-```
+- Siparişin adını ve eğer elinizde mevcutsa linkini veriyorsunuz siparişin rahat temin edilebilmesi için.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Sonraki aşamada siparişin tahmini veya gerçek fiyatını giriyorsunuz. Siparişiniz alındığında yönetici veya siparişi alacak kişi bu fiyatı güncelleyebilir. (Örneğin: 20 liralık bir plastik ördeği 5 liraya bulup almış olabilirler.)
 
-### Jekyll Themes
+- Ardından siparişinizin önceliğini seçiyorsunuz. Örneğin bir uçak bileti yüksek öncelikli olup 2-3 gün içinde size lazım olabilir.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egehatirnaz/zeoDemander/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Son olarak siparişiniz ile ilgili detayları giriyorsunuz. Bu detaylar siparişinizin temin edilmesi için ihtiyaç duyacağımız şeyler olacak. Siparişi değerlendirecek ve alacak kişilere iletmek istediğiniz şeyler varsa buraya yazmalısınız.
 
-### Support or Contact
+Hepsi bu kadar. Siz siparişinizi gönderdikten sonra yönetici siparişi değerlendiriyor ve alınıp alınmayacağına kadar veriyor. Sipariş eğer kabul gördüyse siparişin satın alınacağı bir teslim tarihi, kabul görmediyse ret sebebinin bulunduğu bir bilgilendirme maili e-posta adresinize geliyor.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Siparişiniz yönetici tarafından onaylandıysa bu siparişi alacak olan kişiye yönlendiriliyor. Satın alım tarihine göre kişi siparişi alıyor ve size zamanında teslim ediyor.
+
+## Ayarlar
+
+Bu kısımda hesap bilgilerinizi değiştiriyorsunuz. Sistemde görünen isminiz ve giriş için kullandığınız parolanızı değiştirebilirsiniz. Giriş için kullandığınız e-posta adresinizi siz değiştiremezsiniz. Lütfen yönetici ile iletişime geçin.
+
+Sisteme kaydedildiğinizde size geçici bir şifre verilecektir. Geçici şifrenizi burada güncelleyebilirsiniz.
+
+## Destek ve İletişim
+Zeo Demander ile ilgili bir problemle karşılaşırsanız [ege@icerik.com](mailto:ege@icerik.com) adresini kullanarak benimle iletişime geçebilirsiniz.
+
+**_İyi çalışmalar,
+Ege Hatırnaz_**
